@@ -33,5 +33,5 @@ using model.predict(...), takes a video as input and produces a video with bound
 9.	Auxiliary Functions:
 Functions not strictly related to the Object detection task.
 
-To open the whole folder containing also videos and trained models follow this link: [https://drive.google.com/drive/folders/1dKbOLQhLvC8tUNnMN8Tw8fz_yStear8a?usp=drive_link](url)
+To open the whole folder containing also videos and trained models follow this link: [https://drive.google.com/drive/folders/1dKbOLQhLvC8tUNnMN8Tw8fz_yStear8a?usp=drive_link]
 
